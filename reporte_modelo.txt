@@ -1,0 +1,40 @@
+============================================================
+REPORTE DEL MODELO RANDOM FOREST
+============================================================
+
+DATOS:
+- Dataset original: (2400, 8)
+- Dataset SMOTE: (6145, 8)
+- Entrenamiento: (4916, 6)
+- Prueba: (1229, 6)
+
+DISTRIBUCIÓN DE CLASES (SMOTE):
+- Clase 0 (cafeteria): 1229 muestras
+- Clase 1 (farmacia): 1229 muestras
+- Clase 2 (otro): 1229 muestras
+- Clase 3 (papeleria): 1229 muestras
+- Clase 5 (tienda_deportiva): 1229 muestras
+
+ACCURACY TOTAL: 0.9902 (99.02%)
+
+REPORTE DE CLASIFICACIÓN:
+                  precision    recall  f1-score   support
+
+       cafeteria       1.00      0.97      0.99       246
+        farmacia       0.98      0.98      0.98       245
+            otro       1.00      1.00      1.00       246
+       papeleria       0.97      1.00      0.98       246
+tienda_deportiva       1.00      1.00      1.00       246
+
+        accuracy                           0.99      1229
+       macro avg       0.99      0.99      0.99      1229
+    weighted avg       0.99      0.99      0.99      1229
+
+============================================================
+IMPORTANCIA DE CARACTERÍSTICAS:
+- densidad_papelerias: 0.2372
+- densidad_farmacias: 0.1834
+- densidad_gimnasios: 0.1746
+- densidad_comercios: 0.1620
+- densidad_hospitales: 0.1289
+- densidad_escuelas: 0.1138
