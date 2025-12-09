@@ -40,7 +40,12 @@ O escanea el QR para ver la versión móvil optimizada:
 * **Backend:** Python (Flask).
 * **Despliegue:** PythonAnywhere.
 * **Librerías Python:** `Flask`, `flask-cors`, `numpy` (para cálculos de densidad), `qrcode`.
+* 
+### Gráfico A.1 Matriz de Confusión
+![Matriz de Confusión del modelo Random Forest](assets/matriz_confusion.png)
 
+### Interfaz del Sistema
+![Vista principal de la aplicación web](assets/interfaz_app.png)
 ## 🚀 Instalación Local
 
 Si deseas correr este proyecto en tu computadora para desarrollo:
@@ -81,7 +86,7 @@ Si deseas correr este proyecto en tu computadora para desarrollo:
 
 ## 📄 Licencia
 
-Este proyecto es de código abierto y está disponible bajo la Licencia MIT.
+Este proyecto es de código abierto y disponible.
 
 ---
 ⌨️ Desarrollado con ❤️ por [Alejandra Rodríguez](https://github.com/AleRodriguezCruz)
