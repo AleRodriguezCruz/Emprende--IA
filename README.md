@@ -75,7 +75,7 @@ Si deseas correr este proyecto en tu computadora para desarrollo:
 
 | Vista Móvil (Panel Deslizable) | Vista Escritorio (Panel Lateral) |
 |:------------------------------:|:--------------------------------:|
-| ![Movil](screenshot_movil.png) | ![PC](screenshot_pc.png)         |
+| ![Movil](screenshot_movil.png) | ![PC](Emprende IA.JPG)         |
 
 *(Recuerda subir tus capturas de pantalla a la carpeta del proyecto con estos nombres)*
 
