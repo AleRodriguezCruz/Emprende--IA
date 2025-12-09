@@ -42,10 +42,10 @@ O escanea el QR para ver la versión móvil optimizada:
 * **Librerías Python:** `Flask`, `flask-cors`, `numpy` (para cálculos de densidad), `qrcode`.
 * 
 ### Gráfico A.1 Matriz de Confusión
-![Matriz de Confusión del modelo Random Forest](/matriz_confusion.png)
+![Matriz de Confusión del modelo Random Forest](/2_matriz_confusion.png)
 
 ### Interfaz del Sistema
-![Vista principal de la aplicación web](/interfaz_app.png)
+![Vista principal de la aplicación web](/Emprende IA.jpg)
 ## 🚀 Instalación Local
 
 Si deseas correr este proyecto en tu computadora para desarrollo:
@@ -80,7 +80,7 @@ Si deseas correr este proyecto en tu computadora para desarrollo:
 
 | Vista Móvil (Panel Deslizable) | Vista Escritorio (Panel Lateral) |
 |:------------------------------:|:--------------------------------:|
-| ![Movil](screenshot_movil.png) | ![PC](Emprende IA.JPG)         |
+| ![Movil](screenshot_movil.png) | (/Emprende IA.JPG)         |
 
 *(Recuerda subir tus capturas de pantalla a la carpeta del proyecto con estos nombres)*
 
