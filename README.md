@@ -20,7 +20,7 @@ Basándose en estos datos, el sistema **predice y recomienda** las mejores oport
 O escanea el QR para ver la versión móvil optimizada:
 
 <p align="center">
-  <img src="qr_emprende_slogan.png" alt="QR del Proyecto" width="250"/>
+  <img src="QR.png" alt="QR del Proyecto" width="250"/>
 </p>
 
 *(Nota: Este QR te llevará directamente a la aplicación)*
@@ -41,11 +41,11 @@ O escanea el QR para ver la versión móvil optimizada:
 * **Despliegue:** PythonAnywhere.
 * **Librerías Python:** `Flask`, `flask-cors`, `numpy` (para cálculos de densidad), `qrcode`.
 * 
-### Gráfico A.1 Matriz de Confusión
-![Matriz de Confusión del modelo Random Forest](/2_matriz_confusion.png)
 
+## 📸 Capturas de Pantalla
 ### Interfaz del Sistema
-![Vista principal de la aplicación web](/Emprende IA.jpg)
+![Vista principal de la aplicación web](/EmprendeIA.JPG)
+
 ## 🚀 Instalación Local
 
 Si deseas correr este proyecto en tu computadora para desarrollo:
@@ -76,13 +76,9 @@ Si deseas correr este proyecto en tu computadora para desarrollo:
     ```
     *Abre tu navegador en `http://127.0.0.1:5000`*
 
-## 📸 Capturas de Pantalla
+       |
 
-| Vista Móvil (Panel Deslizable) | Vista Escritorio (Panel Lateral) |
-|:------------------------------:|:--------------------------------:|
-| ![Movil](screenshot_movil.png) | (/Emprende IA.JPG)         |
 
-*(Recuerda subir tus capturas de pantalla a la carpeta del proyecto con estos nombres)*
 
 ## 📄 Licencia
 
