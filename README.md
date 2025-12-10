@@ -44,7 +44,7 @@ O escanea el QR para ver la versión móvil optimizada:
 
 ## 📸 Capturas de Pantalla
 ### Interfaz del Sistema
-![Vista principal de la aplicación web](/EmprendeIA.JPG)
+![Vista principal de la aplicación web](/interfaz.png)
 
 ## 🚀 Instalación Local
 
